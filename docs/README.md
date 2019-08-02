@@ -4,6 +4,20 @@
 
 > Detect clicks outside the react component
 
+## Install
+
+Using npm
+
+```bash
+npm install --save @epranka/react-click-outside
+```
+
+or yarn
+
+```bash
+yarn add @epranka/react-click-outside
+```
+
 ## Usage
 
 There are two ways to detect outside clicks
