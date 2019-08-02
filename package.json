@@ -1,7 +1,7 @@
 {
 	"name": "@epranka/react-click-outside",
 	"description": "Detect clicks outside the component",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"scripts": {
 		"main": "dist/index.js",
 		"build": "rm -rf ./dist/** && tsc && rm -rf ./dist/example",
