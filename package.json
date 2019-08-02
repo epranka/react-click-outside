@@ -6,9 +6,11 @@
 		"main": "dist/index.js",
 		"build": "rm -rf ./dist/** && tsc && rm -rf ./dist/example",
 		"watch": "tsc --watch",
+		"docs": "docsify serve docs",
 		"test": "jest",
 		"semantic-release": "semantic-release"
 	},
+	"readme": "./docs/README.md",
 	"publishConfig": {
 		"access": "public"
 	},
